@@ -1,0 +1,37 @@
+Notes for trouble shooting
+Team Walkman🚶‍♂️
+
+11/14
+Pico4ml Environment Setup (Done)
+
+11/16
+Get IMU raw data from the ICM20948 sensor
+(Done on 11/18)
+
+11/20
+Using raw data to select proper sample rate for moving
+(Done on 11/22)
+
+11/23
+Get correct moving data for combination of 3-axis
+(Done on 11/25)
+
+11/26
+Get the LCD screen to display moving info
+(Done on 11/28)
+
+11/30
+Choose step counter algorithms
+(Done on 12/3)
+
+12/4
+Have trouble using the camera to get real-time diagrams on the LCD screen.
+(Fixed at 9:16pm 12/5)
+
+12/7
+How to define a "step" & Basic counter setup
+(Completed on 12/10)
+
+Current Problems:
+How to choose fixed points and track them for indoor tracking?
+Optimization of counter algorithm
