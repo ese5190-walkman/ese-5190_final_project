@@ -6,6 +6,10 @@ University of Pennsylvania, ESE 5190 Final Project: Step Counter
                2. MacBook Air (M1, 2020), macOS Ventura 13.0
                3. Lenovo Legion R9000P 2021 15.6"
                
+# Demo
+
+[![Demo_Step-Counter](https://res.cloudinary.com/marcomontalbano/image/upload/v1672286692/video_to_markdown/images/youtube--YtTOuhUdWrI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/YtTOuhUdWrI "Demo_Step-Counter")
+           
 # Proposal
 
 We combine the IMU and LCD screen in Pico4ml to build a simple step counter.
@@ -53,8 +57,6 @@ The code is [here](https://github.com/ryanhpan/ESE5190-Final-Project/tree/main/c
 
 - [Logs](https://github.com/ryanhpan/ESE5190-Final-Project/blob/main/media/troubleshooting/notes.txt)
 
-## Demo
-
 ### Midpoint
 
 <div align=center>
@@ -73,9 +75,8 @@ The code is [here](https://github.com/ryanhpan/ESE5190-Final-Project/tree/main/c
 <img src="https://github.com/ryanhpan/ESE5190-Final-Project/blob/main/diagram/stopping%20state.png" width="800">  
 </div>
 
-### Final Project Demo
 
-[![Demo_Step-Counter](https://res.cloudinary.com/marcomontalbano/image/upload/v1672286692/video_to_markdown/images/youtube--YtTOuhUdWrI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/YtTOuhUdWrI "Demo_Step-Counter")
+
 
 # Diagram
 
