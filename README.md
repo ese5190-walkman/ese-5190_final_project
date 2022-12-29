@@ -6,7 +6,7 @@ University of Pennsylvania, ESE 5190 Final Project: Step Counter
                2. MacBook Air (M1, 2020), macOS Ventura 13.0
                3. Lenovo Legion R9000P 2021 15.6"
                
-# Demo
+# Project Showcase
 
 [![Demo_Step-Counter](https://res.cloudinary.com/marcomontalbano/image/upload/v1672286692/video_to_markdown/images/youtube--YtTOuhUdWrI-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/YtTOuhUdWrI "Demo_Step-Counter")
            
