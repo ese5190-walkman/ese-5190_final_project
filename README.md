@@ -96,12 +96,13 @@ If there is a chance in the future, we might try to refer to the latest algorith
 Successfully detect the moving state of the IMU module and turn that into walking state. When treat it like a bracelet, the step counting actually works!
 # An explanation of the PIO part of the code
 
-## The diagram of the overal logic
+## The diagram of the overall logic
+![image](https://user-images.githubusercontent.com/57385262/210121138-6d83542e-7163-42ef-91a7-ca88cb00c027.png)
 
 ## Introduction to the RP2040 PIO module
-
+Programmable I/O (PIO) is a new piece of hardware developed for RP2040. It allows you to create new types of (or additional) hardware interfaces on your RP2040-based device. Interfacing with other digital hardware components is hard. It often happens at very high frequencies (due to amounts of data that need to be transferred), and has very exact timing requirements. To interact with different hardware, there are many different standard, therefore, if user wants to add new periphal hardware, the traditional IO is not suitable to interact with these uncertain new hardware. This is where PIO shows up,the programmable input/output block (PIO) is a versatile hardware interface, which supports a variety of IO standards.
 ## What makes RP2040 a unique asset for a microcontroller
-
+The LCD on the Pico4ML board we use does not set up be default, therefore, we need the PIO the configure the interface between RP2040 and st7735. 
 # Team overview
 - [Hao Pan](https://github.com/ryanhpan)
 - [Lihong Zhao](https://github.com/lihzhao14)
