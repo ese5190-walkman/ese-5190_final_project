@@ -37,7 +37,7 @@ In this project, we try to create a steps counter to detect people’s daily wal
 - LCD Screen shows the amount of steps on the screen.
 
 ## Descritption of RP2040 development enviroment
-
+[link](https://github.com/lihzhao14/ese5190_pico_setup_guide)
 ## Code
 By using the sdk for ICM20948 and LCD_st7735, we are now able to successfully read the acceleration and gravity data from IMU(ICM20948) and get it to display on the LCD screen (LCD_st7735) which is used by PIO.
 
