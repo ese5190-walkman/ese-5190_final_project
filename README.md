@@ -52,7 +52,9 @@ The code is [here](https://github.com/ese5190-walkman/ese-5190_final_project/tre
 - [Arducam_hm01b0](https://github.com/ese5190-walkman/ese-5190_final_project/tree/main/code/libraries/Arducam_hm01b0)
 
 # Narrative overview of project's development
-    The first step of the project is to figure out how the IMU module works, what kind of data can it provide? By reading the datasheet and performing some testing, we realize that IMU can provide us the data of acceleration and gravity from three direction. The next step is that we need to design the algorithm that detect whether the sensor is moving and try to define what is one step. After a fully test of the algorithm, the final step is to use the LCD screen to show the counting result.
+
+The first step of the project is to figure out how the IMU module works, what kind of data can it provide? By reading the datasheet and performing some testing, we realize that IMU can provide us the data of acceleration and gravity from three direction. The next step is that we need to design the algorithm that detect whether the sensor is moving and try to define what is one step. After a fully test of the algorithm, the final step is to use the LCD screen to show the counting result.
+
 ## Midpoint Demo
 
 <div align=center>
