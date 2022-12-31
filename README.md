@@ -8,7 +8,7 @@ University of Pennsylvania, ESE 5190 Final Project: Step Counter
                
 # Overview
 
-In this project, we try to create a steps counter to detect people’s daily walking and try to add some modules to analyse and show data on screen and make it portable to use as a health monitor and reminder. The RP2040 chip we have contains the IMU module and LCD screen. We will use the IMU module detects the movement of the user and generates the data of acceleration of linear velocity and angular velocity. Also, an algorithm is required. First, we need a filter Algorithms remove the high frequency noise from the raw data and the Data Processor need to identifies the signal pattern of “walking” . Next, the Program counts the amount of steps in a certain amount of time and the LCD Screen shows the amount of steps on the screen
+In this project, we try to create a steps counter to detect people’s daily walking and try to add some modules to analyse and show data on screen and make it portable to use as a health monitor and reminder. The RP2040 chip we have contains the IMU module and LCD screen. We will use the IMU module detects the movement of the user and generates the data of acceleration of linear velocity and angular velocity. Also, an algorithm is required. First, we need a filter Algorithms remove the high frequency noise from the raw data and the Data Processor need to identifies the signal pattern of “walking” . Next, the Program counts the amount of steps in a certain amount of time and the LCD Screen shows the amount of steps on the screen.
 
 # Showcase
 
